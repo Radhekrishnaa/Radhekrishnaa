@@ -1,4 +1,7 @@
 ### Hi there friends 👋
+
+
+[![Radhekrishna github activity graph](https://activity-graph.herokuapp.com/graph?username=Radhekrishnaa&theme=xcode)](https://git.io/Radhekrishnaa)
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=tokyonight" 
 />
