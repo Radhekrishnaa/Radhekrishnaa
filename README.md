@@ -6,9 +6,14 @@ I am Radhekrishna Mishra, currently pursuing my Degree in Computer science speci
 
 [![Radhekrishna github activity graph](https://activity-graph.herokuapp.com/graph?username=Radhekrishnaa&theme=xcode)](https://git.io/Radhekrishnaa)
 
+
+## ⚡ Technologies
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=tokyonight" 
 />
+
+
     
 
 <!--
