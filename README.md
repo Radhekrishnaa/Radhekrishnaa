@@ -9,6 +9,11 @@ I am Radhekrishna Mishra, currently pursuing my Degree in Computer science speci
 
 ## ⚡ Technologies
 
+### Language :
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=tokyonight" 
 />
