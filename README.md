@@ -4,8 +4,6 @@ I am Radhekrishna Mishra, currently pursuing my Degree in Computer science speci
 
 [![My Gmail Badge](https://img.shields.io/badge/-rajmishra52002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajmishra52002@gmail.com)](mailto:rajmishra52002@gmail.com)
 
-
-
 [![Radhekrishna github activity graph](https://activity-graph.herokuapp.com/graph?username=Radhekrishnaa&theme=xcode)](https://git.io/Radhekrishnaa)
 
 
@@ -17,6 +15,11 @@ I am Radhekrishna Mishra, currently pursuing my Degree in Computer science speci
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=tokyonight" 
