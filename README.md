@@ -1,4 +1,9 @@
-### Hi , I am Radhekrishna! Great to see you here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hey, Great to see you here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 I am Radhekrishna Mishra, currently pursuing my Degree in Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -17,9 +22,6 @@ I am Radhekrishna Mishra, currently pursuing my Degree in Computer science speci
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=tokyonight" 
