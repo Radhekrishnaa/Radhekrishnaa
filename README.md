@@ -5,12 +5,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am Radhekrishna Mishra, currently pursuing my Degree in Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+ I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 - :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring  Open source and learning & contributing to the open source
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve DSA problems on [Leetcode](https://leetcode.com/Radhekrishna_Mishra/) and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - 
