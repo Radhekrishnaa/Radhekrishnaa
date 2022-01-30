@@ -5,13 +5,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
- I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here:
 
 - :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
 - :seedling: Exploring  Open source and learning & contributing to the open source
 
 - :zap: In my free time, I solve DSA problems on [Leetcode](https://leetcode.com/Radhekrishna_Mishra/) and read tech articles.
-
+- :nerd_face: I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. 
 - :point_down:Find out more about me & feel free to connect with me here:
 <div id="badges">
   <a href="your-linkedin-URL">
