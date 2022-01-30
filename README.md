@@ -12,8 +12,7 @@
 
 - :zap: In my free time, I solve DSA problems on [Leetcode](https://leetcode.com/Radhekrishna_Mishra/) and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- 
+- :point_down:Find out more about me & feel free to connect with me here:
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
