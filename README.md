@@ -4,6 +4,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :
 - I am a learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
 - :seedling: Exploring and learning different development & contributing to the open source
