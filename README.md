@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Find out more about me & feel free to connect with me here:
-
 - :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
 - :seedling: Exploring  Open source and learning & contributing to the open source
 
