@@ -7,6 +7,13 @@
 
 I am Radhekrishna Mishra, currently pursuing my Degree in Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+- :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
