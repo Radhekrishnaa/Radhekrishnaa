@@ -1,6 +1,6 @@
-### Hey, Great to see you here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 <p align="center"><img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/></p>
+
+### Hey, Great to see you here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
