@@ -17,7 +17,7 @@
 -  🔭 I’m currently working on learning different algorithms ,and web dev.
 - :point_down:Find out more about me & feel free to connect with me here:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
