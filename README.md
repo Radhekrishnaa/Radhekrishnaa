@@ -17,7 +17,7 @@
 -  🔭 I’m currently working on learning different algorithms ,and web dev.
 - :point_down:Find out more about me & feel free to connect with me here:
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/radhekrishna-mishra-23abb7230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
