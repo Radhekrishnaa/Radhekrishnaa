@@ -27,7 +27,6 @@
   
 </div>
 
-[![My Gmail Badge](https://img.shields.io/badge/-rajmishra52002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajmishra52002@gmail.com)](mailto:rajmishra52002@gmail.com)
 
 [![Radhekrishna github activity graph](https://activity-graph.herokuapp.com/graph?username=Radhekrishnaa&theme=xcode)](https://git.io/Radhekrishnaa)
 
