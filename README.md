@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About Me :
-- I am a learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I am a learn<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
 - :seedling: Exploring and learning different development & contributing to the open source
 - :zap: In my free time, I solve DSA problems on [Leetcode](https://leetcode.com/Radhekrishna_Mishra/) and read tech articles.
