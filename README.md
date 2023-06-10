@@ -29,7 +29,7 @@
 
 
 [![Radhekrishna github activity graph](https://activity-graph.herokuapp.com/graph?username=Radhekrishnaa&theme=xcode))](https://git.io/Radhekrishnaa)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Radhekrishna github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
