@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 - I am a 4th year grad<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot ,cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
+- :student: I’m currently pursuing my degree in  Computer science specializing in( **Iot, cybersecurity including Blockchain Technology** ) from [Smt. Indira Gandhi College of Engineering](http://sigce.edu.in/) 
 - :seedling: Exploring and learning different development & contributing to the open source
 - :zap: In my free time, I solve DSA problems on [Leetcode](https://leetcode.com/Radhekrishna_Mishra/) and read tech articles.
 - :nerd_face: I am a tech enthusiast & an open-source learner.I am always open to collaborating on projects and innovative/disruptive ideas. 
@@ -53,7 +53,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Radhekrishnaa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![Radhekrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhekrishnaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Radhekrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhekrishnaa)](https://github.com/Radhekrishnaa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **Radhekrishnaa/Radhekrishnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
