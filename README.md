@@ -53,7 +53,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Radhekrishnaa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Radhekrishnaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhekrishnaa&show_icons=true&theme=radical)
 <!--
 **Radhekrishnaa/Radhekrishnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
